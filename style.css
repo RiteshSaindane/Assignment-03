@@ -247,4 +247,11 @@ header .navbar ul li:hover a {
       width: 100%;
       border: 1px solid aqua;
   }
+
+  
+  .black-box .whitebox
+  {
+    display: flex;
+    flex-direction: column;
+  }
 }
